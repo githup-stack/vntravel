@@ -4,7 +4,7 @@ const layout = () => {
   return (
     <html>
       <body>
-        <div>layout1</div>
+        <div>layout</div>
       </body>
     </html>
   );
