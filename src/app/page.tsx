@@ -2,11 +2,11 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div>
-      <header></header>
-      <body></body>
-      <footer></footer>
-    </div>
+    <main>
+      <header>{/* Header content here */}</header>
+      <section>{/* Main content here */}</section>
+      <footer>{/* Footer content here */}</footer>
+    </main>
   );
 };
 
