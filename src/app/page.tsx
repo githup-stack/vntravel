@@ -1,13 +1,7 @@
 import React from "react";
 
 const Home = () => {
-  return (
-    <main>
-      <header>{/* Header content here */}</header>
-      <section>{/* Main content here */}</section>
-      <footer>{/* Footer content here */}</footer>
-    </main>
-  );
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 };
 
 export default Home;
